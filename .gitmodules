@@ -1,0 +1,3 @@
+[submodule "Statistics and R/dagdata"]
+	path = Statistics and R/dagdata
+	url = git@github.com:genomicsclass/dagdata
